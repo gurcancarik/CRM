@@ -4,7 +4,7 @@ Veri Seti Hikayesi 📚
 Reserved veri seti, FLO’nun 2020-2021 yıllarında OmniChannel (hem online hem de offline alışveriş yapan) müşterilerinin geçmiş alışveriş davranışlarını içermektedir.
 
 İş Problemi 💼
-Online ayakkabı mağazası olan FLO, müşterilerini segmentlere ayırarak bu segmentlere göre pazarlama stratejileri belirlemek istemektedir. Bu doğrultuda, müşterilerin davranışları tanımlanacak ve bu davranışlardaki öbeklenmelere göre gruplar oluşturulacaktır.
+Online ayakkabı mağazası olan FLO, müşterilerini segmentlere ayırarak bu segmentlere göre pazarlama stratejileri belirlemek istemektedir. Müşterilerin davranışları tanımlanacak ve bu davranışlardaki öbeklenmelere göre gruplar oluşturulacaktır.
 
 Hadi, bu segmentleri oluşturalım ve daha etkili pazarlama stratejileri geliştirelim! 🚀
 
@@ -16,4 +16,3 @@ Veri Seti Hikayesi 📊
 Veri seti, FLO’nun 2020-2021 yıllarında OmniChannel (hem online hem de offline alışveriş yapan) müşterilerinin geçmiş alışveriş davranışlarına dair bilgiler içermektedir.
 
 Bu verileri kullanarak, müşterilerin yaşam boyu değerlerini (CLTV) tahmin edelim ve stratejik kararlar alalım! 🚀
-
